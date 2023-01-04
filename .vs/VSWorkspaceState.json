@@ -4,13 +4,11 @@
     "\\public",
     "\\public\\config",
     "\\public\\config\\layers",
-    "\\public\\config\\layers\\accessories",
-    "\\public\\config\\layers\\body",
-    "\\public\\config\\layers\\hats",
     "\\src",
+    "\\src\\components",
     "\\src\\data",
     "\\src\\styles"
   ],
-  "SelectedNode": "\\src\\App.js",
+  "SelectedNode": "\\public\\config\\layers\\xtras",
   "PreviewInSolutionExplorer": false
 }
