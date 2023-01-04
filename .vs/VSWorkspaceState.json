@@ -1,7 +1,16 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\public",
+    "\\public\\config",
+    "\\public\\config\\layers",
+    "\\public\\config\\layers\\accessories",
+    "\\public\\config\\layers\\body",
+    "\\public\\config\\layers\\hats",
+    "\\src",
+    "\\src\\data",
+    "\\src\\styles"
   ],
-  "SelectedNode": "\\I:\\avatar generator\\kochicken dapp",
+  "SelectedNode": "\\src\\App.js",
   "PreviewInSolutionExplorer": false
 }

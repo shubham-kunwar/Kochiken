@@ -99,20 +99,23 @@ export const StyledImg = styled.img`
   
  
 
-
-  width: 360px;
+  width: 250px;
+margin:350px;
  
-  @media (min-width: 1200px) {
-    width: 360px;
+  @media (min-width: 1000px) {
+    width: 330px;
+bottom:70px;
+border-radius:330px;
 
   }
   transition: width 0.5s;
+border-radius:250px;
 `;
 
 export const StyledLogo = styled.img`
   width: 200px;
-  @media (min-width: 767px) {
-    width: 300px;
+  @media (min-width: 1000px) {
+    width: 280px;
   }
   transition: width 0.5s;
   transition: height 0.5s;
@@ -157,7 +160,7 @@ background: linear-gradient(180deg, rgba(254,241,23,0.9808298319327731) 0%, rgba
     -moz-user-select: none;
     -ms-user-select: none;
     user-select: none;
-    position: relative;
+   
     white-space: nowrap;
     vertical-align: middle;
     outline: 2px solid transparent;

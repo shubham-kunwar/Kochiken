@@ -1,6 +1,6 @@
 .css-xvauwm {
     padding: 2em;
-    margin:0 5em;
+    margin: 0 16em;
     min-width: 300px;
     max-width: 300px;
     min-height: 0px;
@@ -8,8 +8,20 @@
     border-width: 1px;
     box-shadow: 0px 0px 30px #000;
     background: rgba(20, 20, 20, 0.80);
-    margin-top:30px
-   
+    min-height: 550px;
+    margin-top:50px
+}
+@media screen and (max-width: 1000px) {
+    .css-xvauwm1 {
+        min-height: 400px;
+        margin-bottom: 160px;
+        margin-top: 160px
+    } 
+    .css-xvauwm {
+        min-height: 400px;
+        margin-bottom: 160px;
+       
+    }
 }
 
 .css-1r2mtbn {
@@ -19,7 +31,7 @@
     min-width: 0px;
     outline: 2px solid transparent;
     outline-offset: 2px;
-    position: relative;
+  
     -webkit-appearance: none;
     -moz-appearance: none;
     -ms-appearance: none;
@@ -70,7 +82,7 @@
     min-width: 0px;
     outline: 2px solid transparent;
     outline-offset: 2px;
-    position: relative;
+   
     -webkit-appearance: none;
     -moz-appearance: none;
     border: 1px solid;
@@ -96,22 +108,6 @@ select {
 
 
 
-
-@media screen and (min-width: 62em) {
-    .css-xvauwm {
-        min-height: 550px;
-    }
-}
-
-.css-15w40bv {
-    width: 100%;
-    height: -webkit-fit-content;
-    height: -moz-fit-content;
-    height: fit-content;
-    position: relative;
-    color: #fff;
-}
-
 .mainBox{
     margin-top:30px
 }
@@ -127,4 +123,8 @@ select {
 
 .css-0{
     background-color:none;
+}
+
+.generateImage {
+    position: absolute;
 }
