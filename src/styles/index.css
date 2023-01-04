@@ -2,7 +2,7 @@
     padding: 2em;
     margin: 0 16em;
     min-width: 300px;
-    
+    max-width: 300px;
     min-height: 0px;
     text-align: center;
     border-width: 1px;
@@ -15,12 +15,12 @@
     .css-xvauwm1 {
         min-height: 400px;
         margin-bottom: 160px;
-        margin-top: 160px
+        margin-top: 10em;
     }
     .css-xvauwm {
         min-height: 400px;
         margin-bottom: 160px;
-        margin: 0 6em;
+        
     }
 }
 
